@@ -1,3 +1,5 @@
+package book04.chap02;
+
 public class BoboAndTheLockers
 {
 	public static void main(String[] args)

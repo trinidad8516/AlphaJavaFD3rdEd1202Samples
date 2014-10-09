@@ -1,3 +1,5 @@
+package book6.chap01;
+
 import javax.swing.*;
 
 public class HelloFrame extends JFrame

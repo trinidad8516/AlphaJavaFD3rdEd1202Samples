@@ -1,7 +1,8 @@
-import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
-import java.util.*;
+package book7.chap02;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
 
 public class ListMovies extends HttpServlet
 {

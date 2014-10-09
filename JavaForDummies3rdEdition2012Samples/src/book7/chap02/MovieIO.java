@@ -1,3 +1,5 @@
+package book7.chap02;
+
 import java.io.*;
 import java.util.*;
 

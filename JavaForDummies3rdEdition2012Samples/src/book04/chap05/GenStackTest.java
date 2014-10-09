@@ -1,3 +1,5 @@
+package book04.chap05;
+
 import java.util.*;
 
 public class GenStackTest

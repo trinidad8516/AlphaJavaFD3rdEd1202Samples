@@ -1,3 +1,5 @@
+package book2.chap02;
+
 public class ScopeApp
 {
 

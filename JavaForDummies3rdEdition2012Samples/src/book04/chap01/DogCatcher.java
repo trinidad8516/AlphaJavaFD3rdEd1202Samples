@@ -1,3 +1,4 @@
+package book04.chap01;
 import java.util.Scanner;
 
 public class DogCatcher

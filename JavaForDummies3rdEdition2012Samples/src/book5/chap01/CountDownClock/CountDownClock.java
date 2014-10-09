@@ -1,3 +1,5 @@
+package book5.chap01.CountDownClock;
+
 public class CountDownClock extends Thread
 {
 	public void run()

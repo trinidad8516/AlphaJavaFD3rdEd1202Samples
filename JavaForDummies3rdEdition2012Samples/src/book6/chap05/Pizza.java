@@ -1,3 +1,5 @@
+package book6.chap05;
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;

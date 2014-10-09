@@ -1,3 +1,5 @@
+package book04.chap02;
+
 import java.util.Arrays;
 
 class CopyDemo

@@ -1,3 +1,5 @@
+package book03.chap07;
+
 public class AnonClass
 {
     public static void main(String[] args)

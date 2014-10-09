@@ -1,3 +1,4 @@
+package book5.chap04;
 import java.util.Scanner;
 import java.text.NumberFormat;
 

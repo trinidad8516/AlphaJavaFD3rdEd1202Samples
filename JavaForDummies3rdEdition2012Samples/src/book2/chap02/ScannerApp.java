@@ -1,3 +1,5 @@
+package book2.chap02;
+
 import java.util.Scanner;
 
 public class ScannerApp

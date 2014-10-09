@@ -1,3 +1,5 @@
+package book7.chap01;
+
 import javax.swing.*;
 import java.awt.event.*;
 import javax.swing.border.*;

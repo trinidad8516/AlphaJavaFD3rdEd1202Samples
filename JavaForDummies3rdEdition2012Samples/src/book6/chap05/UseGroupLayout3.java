@@ -1,3 +1,5 @@
+package book6.chap05;
+
 import javax.swing.GroupLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;

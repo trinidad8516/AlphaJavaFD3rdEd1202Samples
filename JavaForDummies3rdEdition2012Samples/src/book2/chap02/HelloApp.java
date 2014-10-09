@@ -1,3 +1,5 @@
+package book2.chap02;
+
 public class HelloApp
 {
     public static void main(String[] args)

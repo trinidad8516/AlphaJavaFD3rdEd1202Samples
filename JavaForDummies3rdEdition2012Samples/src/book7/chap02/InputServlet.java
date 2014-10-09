@@ -1,6 +1,7 @@
-import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
+package book7.chap02;
+
+import java.io.IOException;
+import java.io.PrintWriter;
 
 public class InputServlet extends HttpServlet
 {

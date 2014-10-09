@@ -1,3 +1,5 @@
+package book7.chap02;
+
 public class Movie
 {
     public String title;

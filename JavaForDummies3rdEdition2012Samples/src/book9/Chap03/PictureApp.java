@@ -1,3 +1,5 @@
+package book9.Chap03;
+
 import javax.swing.*;
 
 public class PictureApp extends JFrame

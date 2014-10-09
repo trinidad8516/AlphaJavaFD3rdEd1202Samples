@@ -1,3 +1,4 @@
+package book03.chap06;
 public class CloneTest2
 {
     public static void main(String[] args)

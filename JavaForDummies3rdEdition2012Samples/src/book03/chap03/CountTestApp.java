@@ -1,3 +1,5 @@
+package book03.chap03;
+
 public class CountTestApp
 {
     public static void main(String[] args)

@@ -1,3 +1,5 @@
+package book9.Chap04.Version3;
+
 import java.applet.*;
 import java.awt.*;
 import javax.swing.*;

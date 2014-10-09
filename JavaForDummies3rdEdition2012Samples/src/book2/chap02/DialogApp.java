@@ -1,3 +1,5 @@
+package book2.chap02;
+
 import javax.swing.JOptionPane;
 
 public class DialogApp

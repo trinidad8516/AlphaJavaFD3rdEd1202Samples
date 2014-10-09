@@ -1,3 +1,4 @@
+package book5.chap02;
 import java.util.Scanner;
 import java.net.*;
 public class HostLookup

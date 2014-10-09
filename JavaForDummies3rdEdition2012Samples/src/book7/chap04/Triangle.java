@@ -1,4 +1,4 @@
-package calculators;
+package book7.chap04;
 
 public class Triangle
 {

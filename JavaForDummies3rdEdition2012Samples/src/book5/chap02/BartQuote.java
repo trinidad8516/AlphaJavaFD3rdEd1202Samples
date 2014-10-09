@@ -1,3 +1,5 @@
+package book5.chap02;
+
 import java.util.ArrayList;
 public class BartQuote
 {

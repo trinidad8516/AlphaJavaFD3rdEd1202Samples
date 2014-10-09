@@ -1,3 +1,5 @@
+package book04.chap05;
+
 public class GenQueueTest
 {
 	public static void main(String[] args)

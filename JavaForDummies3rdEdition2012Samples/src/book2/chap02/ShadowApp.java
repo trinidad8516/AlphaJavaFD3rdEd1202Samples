@@ -1,3 +1,5 @@
+package book2.chap02;
+
 public class ShadowApp
 {
 
@@ -7,7 +9,7 @@ public class ShadowApp
 	{
 		x = 5;
 		System.out.println("x = " + x);
-		int x;
+		int x = 0;
 		System.out.println("x = " + x);
 		x = 10;
 		System.out.println("x = " + x);

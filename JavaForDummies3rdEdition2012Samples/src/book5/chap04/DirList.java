@@ -1,3 +1,5 @@
+package book5.chap04;
+
 import java.io.File;
 import java.util.Scanner;
 

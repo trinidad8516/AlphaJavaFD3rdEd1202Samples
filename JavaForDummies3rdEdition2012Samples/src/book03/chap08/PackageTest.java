@@ -1,4 +1,6 @@
-import com.lowewriter.util.*;
+package book03.chap08;
+
+import com.lowewriter.util.Console;
 
 public class PackageTest
 {

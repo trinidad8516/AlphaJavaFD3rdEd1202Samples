@@ -1,3 +1,5 @@
+package book5.chap01.CountDownLaunchEventV1;
+
 public class LaunchEvent implements Runnable
 {
 	private int start;

@@ -1,3 +1,5 @@
+package book03.chap07;
+
 import java.awt.event.*;
 import javax.swing.*;
 

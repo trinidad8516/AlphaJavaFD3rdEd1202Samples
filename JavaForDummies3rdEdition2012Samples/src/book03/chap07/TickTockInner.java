@@ -1,3 +1,5 @@
+package book03.chap07;
+
 import java.awt.event.*;
 import javax.swing.*;
 
@@ -12,7 +14,7 @@ public class TickTockInner
 		t.go();
 	}
 
-	private void go()
+	void go()
 	{
 		// create a timer that calls the Ticker class
 		// at one second intervals

@@ -1,3 +1,4 @@
+package book03.chap06;
 public class TestEquality1
 {
     public static void main(String[] args)

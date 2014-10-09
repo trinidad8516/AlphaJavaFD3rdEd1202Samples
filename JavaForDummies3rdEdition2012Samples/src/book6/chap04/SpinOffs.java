@@ -1,3 +1,5 @@
+package book6.chap04;
+
 import javax.swing.*;
 import java.awt.event.*;
 import javax.swing.tree.*;

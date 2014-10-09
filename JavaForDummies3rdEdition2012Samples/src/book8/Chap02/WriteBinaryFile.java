@@ -1,3 +1,4 @@
+package book8.Chap02;
 import java.io.*;
 
 public class WriteBinaryFile

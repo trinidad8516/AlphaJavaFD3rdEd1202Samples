@@ -1,7 +1,7 @@
-import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
-import java.util.*;
+package book7.chap02;
+
+import java.io.IOException;
+import java.io.PrintWriter;
 
 public class HelloWorld1 extends HttpServlet
 {

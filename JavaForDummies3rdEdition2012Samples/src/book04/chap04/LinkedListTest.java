@@ -1,3 +1,5 @@
+package book04.chap04;
+
 import java.util.*;
 
 public class LinkedListTest

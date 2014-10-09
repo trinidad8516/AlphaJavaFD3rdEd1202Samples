@@ -1,3 +1,5 @@
+package book5.chap01.DoingTwoThings;
+
 public class CountDownClockSync extends Thread
 {
     synchronized public void run()
